@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sohail</h1>
-<h3 align="center">A Recent Computer Science Graduate with a passion for everything programming</h3>
-
-- 👨‍💻 All of my projects are available at [sohailgsais.live](https://www.sohailgsais.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
